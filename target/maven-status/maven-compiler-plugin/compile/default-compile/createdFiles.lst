@@ -11,6 +11,7 @@ com\prueba\paralon_sistem\controllerInventario.class
 com\prueba\model\entities\Produccion_.class
 com\prueba\model\entities\SalidaInventario_.class
 com\prueba\model\services\SalidaInventarioFacade.class
+com\prueba\paralon_sistem\ContollerLogin.class
 com\prueba\model\entities\DetalleSalida.class
 com\prueba\model\entities\ClienteProveedor_.class
 com\prueba\model\services\ClienteProveedorFacade.class
@@ -18,10 +19,12 @@ com\prueba\model\services\PedidoProduccionFacade.class
 com\prueba\model\entities\Empleados.class
 com\prueba\model\entities\ClienteProveedor.class
 com\prueba\model\entities\ActualizacionPedido_.class
+com\prueba\paralon_sistem\ControllerClientes.class
 com\prueba\model\entities\PedidoProduccion_.class
 com\prueba\model\services\EntradaInventarioFacade.class
 com\prueba\model\entities\ExEmpleados_.class
 com\prueba\model\entities\ProductosProduccion.class
+com\prueba\model\validation\validarD.class
 com\prueba\model\entities\ProductosInventario_.class
 com\prueba\model\entities\Rol.class
 com\prueba\model\entities\Produccion.class
